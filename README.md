@@ -1,6 +1,6 @@
 # Instagram Login Page :computer:
 
-
+<img src="https://raw.githubusercontent.com/carloscdf/Instagram-login/master/img/screenshot.png" alt="screenshot"> 
 
 #### About
 
