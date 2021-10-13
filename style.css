@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background: #1c1c1c;
+    background: #191919;
     margin: 0;
     padding: 0;
     display: flex;
@@ -143,7 +143,7 @@ body {
 
 @media(max-width: 650px) {
     body {
-        background: #1c1c1c;
+        background: #191919;
     }
 
     .instagram-container-wrapper {
@@ -160,6 +160,6 @@ body {
 
     .group-container {
         border: 1px solid transparent;
-        background: #1c1c1c;
+        background: #191919;
     }
 }
