@@ -7,7 +7,7 @@
 
 
 <div class="i6">
-<img src="https://raw.githubusercontent.com/carloscdf/Instagram-login/master/img/screenshot_mobile.png" alt="screenshot mobile" width="240px" align="left">
+<img src="https://raw.githubusercontent.com/carloscdf/Instagram-login/master/img/screenshot_mobile.png" alt="screenshot mobile">
 
 ----
 
