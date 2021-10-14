@@ -3,7 +3,7 @@
 
 #### About
 
-Instagram login page creation project in __dark mode using flexbox__ with CSS 
+Instagram login page project in __dark mode using flexbox__ with CSS 
 
 #### Author :boy:
 
