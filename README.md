@@ -12,7 +12,7 @@ Instagram login page creation project in __dark mode using flexbox__ with CSS
 
 
 
-<p align="center">Made by <a href="https://github.com/carloscdf">Carlos Nascimento</a> Project by <a href="https://github.com/SpruceGabriela">Gabriela Pinheiro</a> </p>
+<p align="center">Made by <a href="https://github.com/carloscdf">Carlos Nascimento</a></p>
 
 
 
