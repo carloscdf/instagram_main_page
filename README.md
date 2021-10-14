@@ -1,16 +1,6 @@
 <h1 align="center"> Instagram Login Page 💻</h1>
 
 
-
-<img src="https://raw.githubusercontent.com/carloscdf/Instagram-login/master/img/screenshot.png" alt="screenshot">
-
-
-
-<div class="i6">
-<img src="https://raw.githubusercontent.com/carloscdf/Instagram-login/master/img/screenshot_mobile.png" alt="screenshot mobile">
-
-----
-
 #### About
 
 Instagram login page creation project in __dark mode using flexbox__ with CSS 
@@ -22,11 +12,20 @@ Instagram login page creation project in __dark mode using flexbox__ with CSS
 
 
 
+<p align="center">Made by <a href="https://github.com/carloscdf">Carlos Nascimento</a> Project by <a href="https://github.com/SpruceGabriela">Gabriela Pinheiro</a> </p>
+
+
+
 ---
 
-Made by [Carlos Nascimento](https://github.com/carloscdf)
-
-Project by [Gabriela Pinheiro](https://github.com/SpruceGabriela) 
+#### Screenshots
 
 
+
+<img src="https://raw.githubusercontent.com/carloscdf/Instagram-login/master/img/screenshot.png" alt="screenshot">
+
+
+
+
+<img src="https://raw.githubusercontent.com/carloscdf/Instagram-login/master/img/screenshot_mobile.png" alt="screenshot mobile">
 
