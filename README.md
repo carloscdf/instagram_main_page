@@ -5,10 +5,13 @@
 
 Instagram login page project in __dark mode using flexbox__ with CSS 
 
-#### Author :boy:
 
-- [Github](https://github.com/carloscdf)
-- [Instagram](https://instagram.com/byswitzer)
+
+#### Online project link
+
+![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fcarloscdf.github.io/Instagram-Login-Page/) link: https://carloscdf.github.io/Instagram-Login-Page/  
+
+
 
 
 
