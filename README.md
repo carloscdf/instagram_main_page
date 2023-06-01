@@ -15,12 +15,6 @@ link: https://carloscdf.github.io/instagram_main_page/
 
 
 
-
-
-<p align="center">Made by <a href="https://github.com/carloscdf">Carlos Nascimento</a></p>
-
-
-
 ---
 
 #### Screenshots
